@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713144399612",
+    "project_id": "pastries-palace",
+    "storage_bucket": "pastries-palace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713144399612:android:9843c319b32e3e3838c979",
+        "android_client_info": {
+          "package_name": "com.carol.pastriespalace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713144399612-1n8asn12nb4seposfkurll2mp816quut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRoH6iPSHDxSD2qKUzKwdvQpRObpqkUzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713144399612-1n8asn12nb4seposfkurll2mp816quut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
