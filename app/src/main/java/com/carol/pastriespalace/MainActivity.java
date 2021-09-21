@@ -1,9 +1,13 @@
 package com.carol.pastriespalace;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
 
+import com.carol.pastriespalace.activities.LoginActivity;
+import com.carol.pastriespalace.activities.RegistrationActivity;
+import com.carol.pastriespalace.activities.WelcomeActivity;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -55,5 +59,9 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
+    }
+
+    public void logout(View view) {
+        startActivity(new Intent(MainActivity.this, WelcomeActivity.class));
     }
 }
