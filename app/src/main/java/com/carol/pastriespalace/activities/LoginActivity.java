@@ -1,4 +1,4 @@
-package com.carol.pastriespalace;
+package com.carol.pastriespalace.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,12 +10,12 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.carol.pastriespalace.MainActivity;
+import com.carol.pastriespalace.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
-
-import org.jetbrains.annotations.NotNull;
 
 public class LoginActivity extends AppCompatActivity {
 
