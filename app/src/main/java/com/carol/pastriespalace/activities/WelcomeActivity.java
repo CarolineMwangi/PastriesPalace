@@ -1,4 +1,4 @@
-package com.carol.pastriespalace;
+package com.carol.pastriespalace.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.carol.pastriespalace.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 
