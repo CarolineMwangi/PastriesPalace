@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="User"
+        android:text="Admin"
         android:textStyle="bold"
         android:layout_marginLeft="11dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
@@ -34,5 +34,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:text="@string/user_gmail_com" />
+        android:text="admin@gmail.com" />
 </LinearLayout>
