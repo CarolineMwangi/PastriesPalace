@@ -68,19 +68,19 @@ public class HomeHorAdapter extends RecyclerView.Adapter<HomeHorAdapter.ViewHold
 
                    if(position == 0){
                        ArrayList<HomeVerModel> homeVerModels = new ArrayList<>();
-                       homeVerModels.add(new HomeVerModel(R.drawable.pie2, "Pie", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.pie3, "Pie", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.pie4, "Pie", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.pie2, "Blueberry Pie", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.pie3, "Pecan Pie", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.pie4, "Pumpkin Pie", "10-23","4.6","Ksh.3000"));
                        homeVerModels.add(new HomeVerModel(R.drawable.pie4, "Pie", "10-23","4.6","Ksh.3000"));
 
                        updateVerticalRec.callBack(position, homeVerModels);
                    }
                    else if(position == 1){
                        ArrayList<HomeVerModel> homeVerModels = new ArrayList<>();
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake2, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake3, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake4, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake6, "Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.cake2, "Chocolate Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.cake3, "Blueberry Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.cake4, "Vanilla Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.cake6, "Birthday Cake", "10-23","4.6","Ksh.3000"));
 
                        updateVerticalRec.callBack(position, homeVerModels);
 
@@ -88,30 +88,30 @@ public class HomeHorAdapter extends RecyclerView.Adapter<HomeHorAdapter.ViewHold
 
                    else if(position == 2){
                        ArrayList<HomeVerModel> homeVerModels = new ArrayList<>();
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake2, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake3, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake4, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake6, "Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.danish1, "Danish", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.danish2, "Danish", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.danish3, "Danish", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.danish5, "Danish", "10-23","4.6","Ksh.3000"));
 
                        updateVerticalRec.callBack(position, homeVerModels);
 
                    }
                    else if(position == 3){
                        ArrayList<HomeVerModel> homeVerModels = new ArrayList<>();
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake2, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake3, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake4, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake6, "Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.mac1, "Macaron", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.mac2, "Macaron", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.mac3, "Macaron", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.mac4, "Macaron", "10-23","4.6","Ksh.3000"));
 
                        updateVerticalRec.callBack(position, homeVerModels);
 
                    }
                    else if(position == 4){
                        ArrayList<HomeVerModel> homeVerModels = new ArrayList<>();
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake2, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake3, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake4, "Cake", "10-23","4.6","Ksh.3000"));
-                       homeVerModels.add(new HomeVerModel(R.drawable.cake6, "Cake", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.croi1, "Croissant", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.croi2, "Croissant", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.croi3, "Croissant", "10-23","4.6","Ksh.3000"));
+                       homeVerModels.add(new HomeVerModel(R.drawable.croi4, "Croissant", "10-23","4.6","Ksh.3000"));
 
                        updateVerticalRec.callBack(position, homeVerModels);
 

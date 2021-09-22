@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:layout_marginBottom="5dp">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="horizontal">
 
         <com.makeramen.roundedimageview.RoundedImageView
@@ -70,13 +70,14 @@
                     android:id="@+id/detailed_rating"/>
 
                 <ImageView
-                    android:src=""
+                    android:src="@drawable/ic_baseline_access_time_24"
                     android:layout_width="15dp"
                     android:layout_height="15dp"
                     android:layout_marginLeft="30dp"
-                    android:layout_marginTop="2dp"/>
+                    android:layout_marginTop="2dp" />
 
                 <TextView
+                    android:id="@+id/detailed_timing"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="4dp"
@@ -93,11 +94,11 @@
                     android:id="@+id/imageView6"
                     android:layout_width="15dp"
                     android:layout_height="15dp"
-                    android:src=""
+                    android:src="@drawable/ic_baseline_access_time_24"
                     app:layout_constraintBottom_toBottomOf="@+id/detailed_price"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="@id/detailed_price"
-                    app:tint="@color/purple_500"/>
+                    app:tint="@color/gray"/>
 
                 <TextView
                     android:id="@+id/detailed_price"

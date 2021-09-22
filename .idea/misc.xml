@@ -6,12 +6,14 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/cake.xml" value="0.240625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/cart.xml" value="0.240625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/change_bg.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/daily_meal_bg.xml" value="0.240625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/default_bg.xml" value="0.23055555555555557" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/foreground.xml" value="0.240625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/home.xml" value="0.23692307692307693" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/round_bg.xml" value="0.240625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/search_bg.xml" value="0.23692307692307693" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/drawable/side_nav_bar.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/activity_registration.xml" value="0.22447916666666667" />
@@ -19,14 +21,21 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/app_bar_main.xml" value="0.20462962962962963" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/daily_meal_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/daily_meal_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/detailed_daily_meal_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/featured_hor_item.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_favourite.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_first.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_gallery.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_my_cart.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_second.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_slideshow.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/fragment_third.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/home_horizonatal_item.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/home_horizontal_item.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/home_vertical_items.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/mycart_item.xml" value="0.27070457354758964" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/layout/nav_header_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/PastriesPalace/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
       </map>

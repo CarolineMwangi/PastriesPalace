@@ -44,8 +44,8 @@ public class HomeFragment extends Fragment implements UpdateVerticalRec {
 ///////////////////////////////////////Horizontal RecyclerView
         homeHorModelList = new ArrayList<>();
 
-        homeHorModelList.add(new HomeHorModel(R.drawable.cake, "Cake"));
         homeHorModelList.add(new HomeHorModel(R.drawable.pie, "Pie"));
+        homeHorModelList.add(new HomeHorModel(R.drawable.cake, "Cake"));
         homeHorModelList.add(new HomeHorModel(R.drawable.dish, "Danish"));
         homeHorModelList.add(new HomeHorModel(R.drawable.macaron, "Macarons"));
         homeHorModelList.add(new HomeHorModel(R.drawable.croissant, "Croissants"));
